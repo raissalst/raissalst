@@ -28,7 +28,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57"/>&nbsp
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black"/>&nbsp
     <img alt="MongoDB" src="https://img.shields.io/badge/Mongo-3f3e42?style=for-the-badge&logo=mongodb&logoColor=4db33d"/>&nbsp
-   <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white"/>&nbsp
+    <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white"/>&nbsp
   </div><br>
   
 [![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=radical)](https://github.com/raissalst/github-readme-stats)
@@ -36,8 +36,8 @@
 -->
 
 <h2>Contact</h2>
-<a href="https://www.linkedin.com/in/raissalstoledo/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:raissalst@gmail.com"><img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raissalstoledo/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:raissalst@gmail.com"><img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
 
