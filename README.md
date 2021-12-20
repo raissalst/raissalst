@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 <h2>About me</h2>
-
-👩‍💻 I’m a Full Stack Development student at Kenzie Academy, who recently concluded Front End Development module<br>
-🌱 I’m currently learning back end technologies<br>
-✅ I’m seeking to develop my programming skills in full stack development area, trying to improve on a daily basis<br>
-
+  📝 I'm a civil structural engineer 👩‍🎓 opening a new career path in software engineering area 💻<br/>
+  👩‍💻 Currently I'm a Full Stack Development student at Kenzie Academy, who recently concluded Front End Development module<br/>
+  🌱 I’m currently learning back end technologies<br/>
+  🎯 I’m seeking to develop my programming skills in full stack development area, trying to improve on a daily basis through code practicing and new applications development<br/>
+  💚 I've always loved technology, computers and pretty much everything that revolves around making life easier through automation of processes<br/>
+  
 <h2>Version Control and Development Tools</h2>
   <div style="display: inline_block"><br>
     <img alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
