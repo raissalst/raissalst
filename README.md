@@ -31,7 +31,7 @@
     <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white"/>&nbsp
   </div><br>
   
-[![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=radical)](https://github.com/raissalst/github-readme-stats)
+[![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=aura)](https://github.com/raissalst/github-readme-stats)
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&layout=compact)](https://github.com/raissalst/github-readme-stats)
 -->
 
