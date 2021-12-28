@@ -32,7 +32,8 @@
   </div>
   
 ## 📊Stats
-[![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=aura)](https://github.com/raissalst/github-readme-stats)
+[![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=aura&count_private=true)
+)](https://github.com/raissalst/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&langs_count=7&layout=compact&theme=aura)](https://github.com/raissalst/github-readme-stats)
 
 
