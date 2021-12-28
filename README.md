@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h1 align="center">
+  <img alt="KenzieHub" title="KenzieHub" src="https://cookin-receitas-afetivas.vercel.app/static/media/CookinLogo.a05a92d0.png" width="100px" />
+</h1>
+
+
 <h2>About me</h2>
   📝 I'm a civil structural engineer 👩‍🎓 opening a new career path in the software engineering field 💻<br/>
   👩‍💻 Currently I'm a Full Stack Development student at Kenzie Academy, who recently concluded Front End Development module<br/>
