@@ -33,8 +33,8 @@
   
 ## 📊Stats
 [![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=aura)](https://github.com/raissalst/github-readme-stats)
-<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&layout=compact)](https://github.com/raissalst/github-readme-stats)
--->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&layout=compact&theme=aura)](https://github.com/raissalst/github-readme-stats)
+
 
 <h2>Contact</h2>
   <a href="https://www.linkedin.com/in/raissalstoledo/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
