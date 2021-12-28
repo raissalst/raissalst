@@ -34,7 +34,8 @@
 ## 📊Stats
 [![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=aura&count_private=true)
 ](https://github.com/raissalst/)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&langs_count=8&layout=default&theme=aura)](https://github.com/raissalst/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst)](https://github.com/raissalst/github-readme-stats)
+<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&langs_count=8&layout=default&theme=aura)](https://github.com/raissalst/)-->
 
 
 <h2>Contact</h2>
