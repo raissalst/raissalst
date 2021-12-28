@@ -33,7 +33,7 @@
   
 ## 📊Stats
 [![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=aura)](https://github.com/raissalst/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&layout=compact&theme=aura)](https://github.com/raissalst/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&langs_count=7&layout=compact&theme=aura)](https://github.com/raissalst/github-readme-stats)
 
 
 <h2>Contact</h2>
