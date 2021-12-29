@@ -36,7 +36,7 @@
 ](https://github.com/raissalst/)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&langs_count=8&layout=compact&theme=aura)](https://github.com/raissalst/)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?raissalst" frameborder="0"></iframe>
+<img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?raissalst" frameborder="0">
 
 
 <h2>Contact</h2>
