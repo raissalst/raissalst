@@ -34,8 +34,7 @@
 ## 📊Stats
 [![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=aura&count_private=true)
 ](https://github.com/raissalst/)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&langs_count=8&layout=compact&theme=aura)](https://github.com/raissalst/)
-[![Top Languages](https://ionicabizau.github.io/github-profile-languages/api.html?raissalst)](https://github.com/raissalst/)
+<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&langs_count=8&layout=compact&theme=aura)](https://github.com/raissalst/)-->
 
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?raissalst" frameborder="0"></iframe>
 
