@@ -34,10 +34,10 @@
 ## 📊Stats
 [![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=aura&count_private=true)
 ](https://github.com/raissalst/)
-<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&langs_count=8&layout=compact&theme=aura)](https://github.com/raissalst/)-->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&langs_count=3&layout=compact&theme=aura)](https://github.com/raissalst/)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?raissalst" frameborder="0"></iframe>
-
+<!--<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?raissalst" frameborder="0"></iframe>
+-->
 
 <h2>Contact</h2>
   <a href="https://www.linkedin.com/in/raissalstoledo/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
