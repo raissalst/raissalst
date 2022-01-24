@@ -28,6 +28,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-4584b6?style=flat&logo=python&logoColor=ffde57"/>&nbsp
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black"/>&nbsp
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=4db33d"/>&nbsp
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql"/>&nbsp
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql"/>&nbsp
     <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=django&logoColor=white"/>&nbsp
   </div>
   
