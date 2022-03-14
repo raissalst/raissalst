@@ -33,6 +33,13 @@
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql"/>&nbsp
     <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=django&logoColor=white"/>&nbsp
   </div>
+ 
+<h2>Others</h2>
+<div style="display: inline_block">
+    <img alt="Scrum" src="https://img.shields.io/badge/Scrum-49beaa?style=flat&logo=s&logoColor=49beaa"/>&nbsp
+    <img alt="Flask" src="https://img.shields.io/badge/Kanban-ffc9b9?style=flat&logo=kanban&logoColor=ffc9b9"/>&nbsp
+</div>
+    
   
 ## 📊Stats
 [![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=aura&count_private=true)
