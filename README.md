@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <h2>About me</h2>
-  📝 I'm a civil structural engineer 👩‍🎓 opening a new career path in the software engineering field 💻<br/>
+  📝 I'm a Full Stack Developer who loves working with both the front and back ends of an application<br/>
+  👩‍🎓 Originally graduated in civil engineering and decided to open a new career path in the software engineering field 💻<br/>
   👩‍💻 Currently I'm finishing the back end module of the Full Stack Development course at Kenzie Academy<br/>
-  🌱 I’m currently learning Back End technologies<br/>
+  🌱 I’m currently learning Node.JS, Express and Django<br/>
   🎯 I’m seeking to develop my programming skills in full stack development area, trying to improve on a daily basis through code practicing and new applications development<br/>
   💚 I've always loved technology, computers and pretty much everything that revolves around making life easier through automation of processes<br/>
   
