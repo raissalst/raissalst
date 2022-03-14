@@ -24,7 +24,7 @@
     <img alt="React" src="https://img.shields.io/badge/React-282c34?style=flat&logo=react&logoColor=61DAFB"/>&nbsp
   </div>
 
-<h2>Back End Skills (ongoing)</h2>
+<h2>Back End Skills</h2>
 <div style="display: inline_block">
     <img alt="Python" src="https://img.shields.io/badge/Python-4584b6?style=flat&logo=python&logoColor=ffde57"/>&nbsp
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black"/>&nbsp
