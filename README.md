@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
   📝 I'm a civil structural engineer 👩‍🎓 opening a new career path in the software engineering field 💻<br/>
-  👩‍💻 Currently I'm a Full Stack Development student at Kenzie Academy, who already concluded Front End Development module<br/>
+  👩‍💻 Currently I'm finishing the back end module of the Full Stack Development course at Kenzie Academy<br/>
   🌱 I’m currently learning Back End technologies<br/>
   🎯 I’m seeking to develop my programming skills in full stack development area, trying to improve on a daily basis through code practicing and new applications development<br/>
   💚 I've always loved technology, computers and pretty much everything that revolves around making life easier through automation of processes<br/>
