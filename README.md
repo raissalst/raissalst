@@ -33,7 +33,7 @@
 <!--     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql"/>&nbsp -->
     <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>&nbsp
     <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>&nbsp
-<!--     <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=django&logoColor=white"/>&nbsp -->
+    <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=django&logoColor=white"/>&nbsp
   </div>
  
 <h2>Others</h2>
