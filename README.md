@@ -38,8 +38,8 @@
  
 <h2>Tools & Others</h2>
 <div style="display: inline_block">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>&nbsp
-    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>&nbsp
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>&nbsp
+    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE"/>&nbsp
     <img alt="Scrum" src="https://img.shields.io/badge/Scrum-49beaa?style=flat&logo=s&logoColor=49beaa"/>&nbsp
     <img alt="Flask" src="https://img.shields.io/badge/Kanban-ffc9b9?style=flat&logo=kanban&logoColor=ffc9b9"/>&nbsp
 </div>
