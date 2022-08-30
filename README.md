@@ -50,7 +50,10 @@
     <img alt="Scrum" src="https://img.shields.io/badge/Scrum-49beaa?style=flat&logo=s&logoColor=49beaa"/>&nbsp
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>&nbsp
     <img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white"/>&nbsp
-    <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>&nbsp
+    <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E"/>&nbsp
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>&nbsp
+    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>&nbsp
+  
 </div>
     
   
