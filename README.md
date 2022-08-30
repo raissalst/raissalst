@@ -10,6 +10,7 @@
   <div style="display: inline_block">
     <img alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>&nbsp
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>&nbsp
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"/>&nbsp
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>&nbsp
   </div>
 
