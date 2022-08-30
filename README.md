@@ -31,7 +31,7 @@
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black"/>&nbsp
     <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=django&logoColor=white"/>&nbsp
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=4db33d"/>&nbsp
-    <img alt="DynamoDB" src=" https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flate&logo=Amazon%20DynamoDB&logoColor=white"/>&nbsp
+    <img alt="DynamoDB" src=" https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white"/>&nbsp
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>&nbsp
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>&nbsp
   </div>
@@ -39,7 +39,7 @@
 <h2>Tools & Others</h2>
 <div style="display: inline_block">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>&nbsp
-    <img alt="Swagger" src=" https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>&nbsp
+    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>&nbsp
     <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE"/>&nbsp
     <img alt="Scrum" src="https://img.shields.io/badge/Scrum-49beaa?style=flat&logo=s&logoColor=49beaa"/>&nbsp
 </div>
