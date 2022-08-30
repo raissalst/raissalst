@@ -26,11 +26,11 @@
 
 <h2>Back End Skills</h2>
 <div style="display: inline_block">
-    <img alt="Nest" src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white"/>&nbsp
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>&nbsp
+    <img alt="Nest" src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white"/>&nbsp
+    <img alt="Python" src="https://img.shields.io/badge/Python-4584b6?style=flat&logo=python&logoColor=ffde57"/>&nbsp
     <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>&nbsp
     <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>&nbsp
-    <img alt="Python" src="https://img.shields.io/badge/Python-4584b6?style=flat&logo=python&logoColor=ffde57"/>&nbsp
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black"/>&nbsp
     <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=django&logoColor=white"/>&nbsp
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=4db33d"/>&nbsp
