@@ -29,17 +29,19 @@
     <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>&nbsp
     <img alt="Python" src="https://img.shields.io/badge/Python-4584b6?style=flat&logo=python&logoColor=ffde57"/>&nbsp
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black"/>&nbsp
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=4db33d"/>&nbsp
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>&nbsp
     <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=django&logoColor=white"/>&nbsp
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=4db33d"/>&nbsp
+    <img alt="DynamoDB" src=" https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flate&logo=Amazon%20DynamoDB&logoColor=white"/>&nbsp
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>&nbsp
+    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>&nbsp
   </div>
  
 <h2>Tools & Others</h2>
 <div style="display: inline_block">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>&nbsp
+    <img alt="Swagger" src=" https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>&nbsp
     <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE"/>&nbsp
     <img alt="Scrum" src="https://img.shields.io/badge/Scrum-49beaa?style=flat&logo=s&logoColor=49beaa"/>&nbsp
-    <img alt="Flask" src="https://img.shields.io/badge/Kanban-ffc9b9?style=flat&logo=kanban&logoColor=ffc9b9"/>&nbsp
 </div>
     
   
