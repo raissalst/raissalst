@@ -49,7 +49,7 @@
     <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>&nbsp
     <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE"/>&nbsp
     <img alt="Scrum" src="https://img.shields.io/badge/Scrum-49beaa?style=flat&logo=s&logoColor=49beaa"/>&nbsp
-    <img alt="Docker" src=" https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp
+    <img alt="Docker" src=" https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>&nbsp
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>&nbsp
     <img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white"/>&nbsp
     <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E"/>&nbsp
