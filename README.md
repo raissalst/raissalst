@@ -67,6 +67,7 @@
 <h2>Pipelines</h2>
 <div style="display: inline_block">
    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>&nbsp
+   <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?&style=flat&logo=github%20actions&logoColor=white" />
 </div>
 
 <h2>Others</h2>
