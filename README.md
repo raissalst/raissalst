@@ -43,21 +43,29 @@
   </div>
 
 <h2>Back End Documentation and Testing Tools</h2>
+<div style="display: inline_block">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>&nbsp
     <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>&nbsp
     <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE"/>&nbsp
+</div>
 
 <h2>Tests</h2>
+<div style="display: inline_block">
    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>&nbsp
    <img alt="Pytest" src="https://img.shields.io/badge/pytest-007ACC?style=flatt&logoColor=gray"/>&nbsp
+</div>
 
 <h2>Pipelines</h2>
+<div style="display: inline_block">
    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>&nbsp
+</div>
 
 <h2>Deploy</h2>
+<div style="display: inline_block">
    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/>&nbsp
    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>&nbsp
    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>&nbsp
+</div>
    
 <h2>Others</h2>
 <div style="display: inline_block">
