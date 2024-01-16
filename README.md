@@ -17,7 +17,7 @@
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>&nbsp
   </div>
 
-<h2>Front End Skills</h2>
+<h2>Front End</h2>
   <div style="display: inline_block">
     <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>&nbsp
     <img alt="React" src="https://img.shields.io/badge/React-282c34?style=flat&logo=react&logoColor=61DAFB"/>&nbsp
@@ -27,7 +27,7 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>&nbsp
   </div>
 
-<h2>Back End Skills</h2>
+<h2>Back End</h2>
 <div style="display: inline_block">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>&nbsp
     <img alt="Python" src="https://img.shields.io/badge/Python-4584b6?style=flat&logo=python&logoColor=ffde57"/>&nbsp
@@ -41,6 +41,13 @@
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>&nbsp
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>&nbsp
   </div>
+
+<h2>Deploy</h2>
+<div style="display: inline_block">
+   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>&nbsp
+   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/>&nbsp
+   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>&nbsp
+</div>
 
 <h2>API Development Tools</h2>
 <div style="display: inline_block">
@@ -60,13 +67,6 @@
    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>&nbsp
 </div>
 
-<h2>Deploy</h2>
-<div style="display: inline_block">
-   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>&nbsp
-   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/>&nbsp
-   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>&nbsp
-</div>
-   
 <h2>Others</h2>
 <div style="display: inline_block">
    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>&nbsp
