@@ -59,7 +59,8 @@
 <h2>Tests</h2>
 <div style="display: inline_block">
    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>&nbsp
-   <img alt="Pytest" src="https://img.shields.io/badge/pytest-007ACC?style=flatt&logoColor=gray"/>&nbsp
+   <img alt="Pytest" src="https://img.shields.io/badge/pytest-007ACC?style=flat&logoColor=gray"/>&nbsp
+   <img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?&style=flat&logo=jasmine&logoColor=white"/>&nbsp
 </div>
 
 <h2>Pipelines</h2>
