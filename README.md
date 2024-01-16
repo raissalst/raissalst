@@ -33,6 +33,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-4584b6?style=flat&logo=python&logoColor=ffde57"/>&nbsp
     <img alt="Nest" src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white"/>&nbsp
     <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/serverless-%23FD5750.svg?&style=flat&logo=serverless&logoColor=white"/>&nbsp
     <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>&nbsp
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black"/>&nbsp
     <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=django&logoColor=white"/>&nbsp
