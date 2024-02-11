@@ -80,7 +80,7 @@
   
 ## 📊Stats
 [![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalst&show_icons=true&theme=aura&count_private=true)
-](https://github.com/raissalst/)
+](https://github.com/raissalst/)<br/>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissalst&layout=compact&theme=aura&langs_count=9)](https://github.com/raissalst/)
 
 <h2>Contact</h2>
