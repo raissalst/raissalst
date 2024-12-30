@@ -8,7 +8,7 @@
   
 <h2>Front End</h2>
   <div style="display: inline_block">
-    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>&nbsp
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>&nbsp
     <img alt="React" src="https://img.shields.io/badge/React-282c34?style=flat&logo=react&logoColor=61DAFB"/>&nbsp
     <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>&nbsp
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp
