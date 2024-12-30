@@ -8,13 +8,13 @@
   
 <h2>Front End</h2>
   <div style="display: inline_block">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>&nbsp
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>&nbsp
     <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>&nbsp
     <img alt="React" src="https://img.shields.io/badge/React-282c34?style=flat&logo=react&logoColor=61DAFB"/>&nbsp
     <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>&nbsp
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>&nbsp
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>&nbsp
   </div>
 
 <h2>Back End</h2>
