@@ -62,6 +62,7 @@
    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>&nbsp
    <img alt="Pytest" src="https://img.shields.io/badge/pytest-007ACC?style=flat&logoColor=gray"/>&nbsp
    <img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?&style=flat&logo=jasmine&logoColor=white"/>&nbsp
+   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e"/>&nbsp
 </div>
 
 <h2>CI/CD</h2>
