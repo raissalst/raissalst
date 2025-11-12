@@ -27,6 +27,8 @@
     <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>&nbsp
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black"/>&nbsp
     <img alt="Django" src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=django&logoColor=white"/>&nbsp
+    <img alt="SQLAlchemy" src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=flat&logo=sqlalchemy&logoColor=white"/>&nbsp
+  <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FE0803.svg?style=flat&logo=typeorm&logoColor=white"/>&nbsp
 </div>
 
 <h2>Datastores & Messaging</h2>
