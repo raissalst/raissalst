@@ -71,7 +71,7 @@
    <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232088FF.svg?&style=flat&logo=github%20actions&logoColor=white" />
 </div>
 
-<h2>Version Control, Work Flow and Development Tools</h2>
+<h2>Version Control, Workflow and Development Tools</h2>
   <div style="display: inline_block">
     <img alt="Scrum" src="https://img.shields.io/badge/Scrum-49beaa?style=flat&logo=s&logoColor=49beaa"/>&nbsp
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>&nbsp
