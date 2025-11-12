@@ -44,6 +44,7 @@
 <h2>Deploy</h2>
 <div style="display: inline_block">
    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>&nbsp
+   <img alt="DigitalOcean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white">&nbsp
    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/>&nbsp
    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>&nbsp
 </div>
