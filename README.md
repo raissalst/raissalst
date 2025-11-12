@@ -79,6 +79,12 @@
    <img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white"/>&nbsp
    <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E"/>&nbsp
 </div>
+
+<h2>AI</h2>
+<div style="display: inline_block">
+   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white"/>&nbsp
+   <img alt="CoPilot" src="https://img.shields.io/badge/github%20copilot-000000?style=flat&logo=githubcopilot&logoColor=white"/>&nbsp
+</div>
 </br>
   
 ## 📊Stats
