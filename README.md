@@ -80,17 +80,6 @@
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>&nbsp
   </div>
 
-<h2>Version Control & Dev Tools</h2>
-  <div style="display: inline_block">
-    <img alt="Scrum" src="https://img.shields.io/badge/Scrum-49beaa?style=flat&logo=s&logoColor=49beaa"/>&nbsp
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>&nbsp
-    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>&nbsp
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>&nbsp
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>&nbsp
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"/>&nbsp
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>&nbsp
-  </div>
-
 <h2>Code Quality</h2>
   <div style="display: inline_block">
     <img alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white"/>&nbsp
