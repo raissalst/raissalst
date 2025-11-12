@@ -76,6 +76,8 @@
 <h2>Others</h2>
 <div style="display: inline_block">
    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>&nbsp
+   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"/>&nbsp
+   <img alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>&nbsp
    <img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white"/>&nbsp
    <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E"/>&nbsp
 </div>
