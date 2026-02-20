@@ -101,24 +101,20 @@
 </br>
   
 ## 📊Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissalst&theme=cobalt" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=raissalst&theme=cobalt" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raissalst&theme=cobalt" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raissalst&theme=cobalt" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raissalst&theme=cobalt" width="96%" />
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissalst&theme=cobalt" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=raissalst&theme=cobalt" width="48%" />
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raissalst&theme=cobalt" width="48%" />
+
+</div>
 
 <h2>Contact</h2>
   <a href="https://www.linkedin.com/in/raissalstoledo/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
