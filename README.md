@@ -101,15 +101,9 @@
 </br>
   
 ## 📊Stats
-a[![Raissa's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raissalst&show_icons=true&theme=tokyonight&count_private=true)]<br/>
-b[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raissalst&layout=compact&theme=tokyonight)]<br/>
-c[![GitHub Streak](https://streak-stats.demolab.com?user=raissalst&theme=tokyonight)]<br/>
-d![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raissalst&theme=tokyonight)<br/>
-e![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissalst&theme=tokyonight)<br/>
-f![Metrics](https://metrics.lecoq.io/raissalst)<br/>
-g![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raissalst&theme=tokyonight)<br/>
-
-h[![GitHub Streak](https://streak-stats.demolab.com?user=raissalst&theme=tokyonight)]<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=raissalst&theme=tokyonight)]<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raissalst&theme=tokyonight)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=raissalst&theme=tokyonight)]<br/>
 
 <h2>Contact</h2>
   <a href="https://www.linkedin.com/in/raissalstoledo/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
