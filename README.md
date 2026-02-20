@@ -3,6 +3,7 @@
 <h2>About me</h2>
   📝 I'm a Full Stack Developer who loves working with both the front and back ends of an application<br/>
   👩‍🎓 Originally graduated in civil (structural) engineering and decided to open a new career path in the software engineering field 💻<br/>
+  💻 Working as a full stack developer since 2022 with focus on backend
   🎯 I’m seeking to develop my programming skills in full stack development area, trying to improve on a daily basis through code practicing and new applications development<br/>
   💚 I've always loved technology, computers and pretty much everything that revolves around making life easier through automation of processes<br/>
   
