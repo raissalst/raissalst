@@ -101,9 +101,10 @@
 </br>
   
 ## 📊Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissalst&theme=tokyonight)<br />
-![GitHub Streak](https://streak-stats.demolab.com?user=raissalst&theme=tokyonight)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raissalst&theme=tokyonight)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissalst&theme=cobalt)<br />
+![GitHub Streak](https://streak-stats.demolab.com?user=raissalst&theme=cobalt)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raissalst&theme=cobalt)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raissalst&theme=cobalt)
 
 <h2>Contact</h2>
   <a href="https://www.linkedin.com/in/raissalstoledo/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
