@@ -4,7 +4,7 @@
   💻 Full-Stack Developer with strong focus on Backend Engineering<br/>
   🎓 Former Structural Engineer, with a strong analytical background, who transitioned into Software Engineer<br/>
   🚀 Working as a full stack developer and building scalable APIs and data-driven systems since 2022, while also contributing to frontend applications using modern frameworks<br /> 
-  👩‍🎓 Originally graduated in civil (structural) engineering and decided to open a new career path in the software engineering field 💻<br/>
+  👩‍🎓 Originally graduated in civil (structural) engineering and decided to open a new career path in the software engineering field<br/>
   🎯 I’m always seeking to develop my programming skills, trying to improve on a daily basis through code practicing and new applications development<br/>
   📦 Passionate about clean architecture, automation and system design<br/>
   💚 I've always loved technology, computers and pretty much everything that revolves around making life easier through automation of processes<br/>
