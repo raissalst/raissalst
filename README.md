@@ -106,8 +106,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raissalst&theme=cobalt" width="96%" />
 
   <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissalst&theme=cobalt" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissalst&theme=cobalt2&animation=load" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raissalst&theme=cobalt" width="48%" />
 
   <br/>
