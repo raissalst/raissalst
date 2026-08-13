@@ -111,7 +111,7 @@
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=raissalst&theme=cobalt&date_format=j%20M%5B%20Y%5D" width="48%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=raissalst&theme=cobalt&date_format=j%20M%5B%20Y%5D&mode=weekly" width="48%" alt="GitHub Streak"/>
 
 </div>
 
