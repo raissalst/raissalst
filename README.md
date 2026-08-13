@@ -109,10 +109,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissalst&theme=algolia&animation=load" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raissalst&theme=algolia&animation=load" width="48%" />
 
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=raissalst&theme=cobalt&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/>
-
 </div>
 
 <h2>Contact</h2>
