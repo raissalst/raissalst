@@ -111,7 +111,7 @@
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=raissalst&theme=cobalt" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=raissalst&theme=cobalt&date_format=j%20M%5B%20Y%5D" width="48%" />
 
 </div>
 
